@@ -1,5 +1,5 @@
 
-# Hi there, I'm Rushikesh - aka [singhkunal2050][website] 👋
+# Hi there, I'm Rushikesh - aka [rushigund][website] 👋
 ## Why are you not at [my website yet][website] 🙄❓
 
 <!-- <a href="https://singhkunal2050.dev" target="_blank"> -->
